@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "1c49a032b5d13e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0a0e1fefe4cb4d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e150c5cb53a7404d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5edd9cafba3806ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37425e5c57c1f8ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c4265ea931d7fc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af61715b0be722be",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283
+  },
+  "right": {
+    "id": "c3aac9bd84206a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0bf9892a08fa9f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17559bc3ac8c6707",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fb80696fc18d87a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "50741cfaed74f8d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55a618afd98f0d87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a0a0e1fefe4cb4d3",
+  "lastOpenFiles": [
+    "README.md",
+    "templates/_quote.md",
+    "_sandbox/admonition.md",
+    "_sandbox/quote.md",
+    "templates/_info.md",
+    "_obsisian/Obsidian Setup.md",
+    "_sandbox/outliner.md",
+    "assets/LkN3Ej 1.png",
+    "assets/LkN3Ej.png",
+    "958-0.3gp"
+  ]
+}

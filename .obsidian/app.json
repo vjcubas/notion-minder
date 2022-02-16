@@ -1,0 +1,22 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "vimMode": true,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "./assets",
+  "lineWrap": true,
+  "tabSize": 2,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
