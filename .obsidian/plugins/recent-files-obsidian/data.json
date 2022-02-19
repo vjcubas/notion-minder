@@ -1,0 +1,38 @@
+{
+  "recentFiles": [
+    {
+      "basename": "ITIL",
+      "path": "reference/ITIL.md"
+    },
+    {
+      "basename": "ITSM",
+      "path": "reference/ITSM.md"
+    },
+    {
+      "basename": "_admonition",
+      "path": "templates/_admonition.md"
+    },
+    {
+      "basename": "README",
+      "path": "sre/README.md"
+    },
+    {
+      "basename": "_frontmatter",
+      "path": "templates/_frontmatter.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "The  question is more important than the answer",
+      "path": "reference/The  question is more important than the answer.md"
+    },
+    {
+      "basename": "README",
+      "path": "reference/README.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

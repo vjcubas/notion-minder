@@ -24,5 +24,22 @@
       "key": "E"
     }
   ],
-  "obsidian-outliner:indent-list": []
+  "obsidian-outliner:indent-list": [],
+  "maximise-active-pane-obsidian:maximise-active-pane": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "X"
+    }
+  ],
+  "search-on-internet:search-on-internet": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
+    }
+  ],
+  "cm-show-whitespace-obsidian:toggle-show-whitespace": []
 }
