@@ -41,5 +41,14 @@
       "key": "I"
     }
   ],
-  "cm-show-whitespace-obsidian:toggle-show-whitespace": []
+  "cm-show-whitespace-obsidian:toggle-show-whitespace": [],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ]
 }

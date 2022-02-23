@@ -1,6 +1,6 @@
 ---
 description: _description_
-type: _type_
+type: permanent_note
 aliases: []
 tags: []
 ---

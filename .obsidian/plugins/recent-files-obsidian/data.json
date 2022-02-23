@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Metrics that matter",
+      "path": "inbox/Metrics that matter.md"
+    },
+    {
+      "basename": "_frontmatter_permanent_note",
+      "path": "templates/_frontmatter_permanent_note.md"
+    },
+    {
+      "basename": "_frontmatter",
+      "path": "templates/_frontmatter.md"
+    },
+    {
+      "basename": "README",
+      "path": "sre/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "reference/README.md"
+    },
+    {
       "basename": "ITIL",
       "path": "reference/ITIL.md"
     },
@@ -9,28 +29,28 @@
       "path": "reference/ITSM.md"
     },
     {
+      "basename": "The  question is more important than the answer",
+      "path": "reference/The  question is more important than the answer.md"
+    },
+    {
+      "basename": "the note",
+      "path": "the note.md"
+    },
+    {
       "basename": "_admonition",
       "path": "templates/_admonition.md"
     },
     {
-      "basename": "README",
-      "path": "sre/README.md"
-    },
-    {
-      "basename": "_frontmatter",
-      "path": "templates/_frontmatter.md"
+      "basename": "quote",
+      "path": "templates/quote.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "The  question is more important than the answer",
-      "path": "reference/The  question is more important than the answer.md"
-    },
-    {
-      "basename": "README",
-      "path": "reference/README.md"
+      "basename": "Obsidian-Highlights",
+      "path": "Obsidian-Highlights.md"
     }
   ],
   "omittedPaths": [],

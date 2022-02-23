@@ -1,4 +1,3 @@
 # Acronyms
-![[ITIL]]
-![[ITSM]]
-
+- [[ITIL]]
+- [[ITSM]]

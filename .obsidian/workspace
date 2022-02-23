@@ -4,37 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7baa849bb3ec49a0",
+        "id": "f2d4223033e741a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reference/ITSM.md",
+            "file": "inbox/Metrics that matter.md",
             "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "301c30cecb4dd5a3",
+        "id": "e4515b24c4ec3484",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reference/ITIL.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "5379b263b825aee8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "templates/_admonition.md",
-            "mode": "source",
+            "file": "inbox/Metrics that matter.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -93,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "c3aac9bd84206a86",
@@ -110,8 +97,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/ITIL.md",
-                "collapseAll": false,
+                "file": "inbox/Metrics that matter.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -127,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/ITIL.md"
+                "file": "inbox/Metrics that matter.md"
               }
             }
           },
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/ITIL.md",
+                "file": "inbox/Metrics that matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,30 +182,6 @@
             }
           },
           {
-            "id": "207cb663e8242aba",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "b7a31af1eac1e4dd",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "18f379c8edeb7a48",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
             "id": "cd4f1272a1ee0004",
             "type": "leaf",
             "state": {
@@ -226,25 +189,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "301c30cecb4dd5a3",
+  "active": "f2d4223033e741a6",
   "lastOpenFiles": [
+    "inbox/Metrics that matter.md",
+    "templates/_frontmatter_permanent_note.md",
+    "templates/_frontmatter.md",
+    "sre/README.md",
+    "reference/README.md",
     "reference/ITIL.md",
     "reference/ITSM.md",
-    "templates/_admonition.md",
-    "sre/README.md",
-    "templates/_frontmatter.md",
-    "README.md",
     "reference/The  question is more important than the answer.md",
-    "reference/README.md",
-    "unlinked files output.md",
-    "unresolved links output.md"
+    "the note.md",
+    "templates/_admonition.md"
   ]
 }
